@@ -1,6 +1,6 @@
 # VirtualResume
-# HTML & CSS Spring 2025
-# Assignment 2 
+## Assignment 2 
+### HTML & CSS Spring 2025
 
 Objective: To practice using basic HTML tags (including divisions, tables, lists) and formatting your HTML with CSS.
 For this assignment you will need to create a well-formed and valid HTML5 page with an embedded CSS stylesheet.
