@@ -1,23 +1,44 @@
+/*body {
+    background-color: black;
+}
+*/
+#page {
+    width:600px;
+    border: green;
+    padding: 30px;
+    margin: auto;
+}
+
 h1 {
     text-align: center;
+    color:crimson;
 }
 
 h2 {
-    text-align: center;
+    text-align: left;
+    color:crimson;
 }
 
 h3 {
-    text-align: center;
+    text-align: left;
+    color:crimson;
 }
 
 h4 {
-    text-align: center;
+    text-align: left;
+    font-style: italic;
+    color: rgb(214, 95, 115);
 }
 
 ul {
-    text-align: center;
+    text-align: left;
+    color:rgb(214, 95, 115);
 }
 
 p {
-    text-align: center;
+    text-align: left;
+    color:rgb(214, 95, 115);
 }
+
+
+
